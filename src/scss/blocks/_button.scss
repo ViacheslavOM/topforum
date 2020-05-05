@@ -1,0 +1,18 @@
+.btn {
+    width: 180px;
+    height: 35px;
+    font-size: 13px;
+    border: none;
+    cursor: pointer;
+    font-weight: 400;
+    text-transform: uppercase;
+    &__top {
+        background-color: #e8d8b6;
+        color: #000;
+    }
+    &_low {
+        background-color: #c99c47;
+        color: #fff;
+    }
+
+}
